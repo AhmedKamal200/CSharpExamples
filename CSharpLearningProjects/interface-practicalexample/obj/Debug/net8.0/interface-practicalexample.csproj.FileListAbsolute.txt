@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\bin\Debug\net8.0\interface-practicalexample.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\bin\Debug\net8.0\interface-practicalexample.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\bin\Debug\net8.0\interface-practicalexample.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\bin\Debug\net8.0\interface-practicalexample.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\bin\Debug\net8.0\interface-practicalexample.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\refint\interface-practicalexample.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\interface-practicalexample.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\interface-practicalexample\obj\Debug\net8.0\ref\interface-practicalexample.dll
