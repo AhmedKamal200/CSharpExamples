@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "indexers_IpAddress/1.0.0": {
+        "runtime": {
+          "indexers_IpAddress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "indexers_IpAddress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

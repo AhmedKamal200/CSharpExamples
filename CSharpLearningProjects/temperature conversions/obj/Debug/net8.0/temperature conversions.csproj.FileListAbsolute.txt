@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\bin\Debug\net8.0\temperature conversions.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\bin\Debug\net8.0\temperature conversions.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\bin\Debug\net8.0\temperature conversions.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\bin\Debug\net8.0\temperature conversions.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\bin\Debug\net8.0\temperature conversions.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\refint\temperature conversions.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\temperature conversions.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\temperature conversions\obj\Debug\net8.0\ref\temperature conversions.dll

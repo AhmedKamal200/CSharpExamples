@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\bin\Debug\net8.0\multicastdelegate.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\bin\Debug\net8.0\multicastdelegate.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\bin\Debug\net8.0\multicastdelegate.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\bin\Debug\net8.0\multicastdelegate.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\bin\Debug\net8.0\multicastdelegate.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\refint\multicastdelegate.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\multicastdelegate.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\multicastdelegate\obj\Debug\net8.0\ref\multicastdelegate.dll

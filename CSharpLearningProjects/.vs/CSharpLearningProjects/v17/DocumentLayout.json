@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0F8B3-C0C2-4C54-966F-A68DA8224F51}|inheirtance\\inheirtance.csproj|d:\\visual studio projects\\source\\repos\\csharplearningprojects\\inheirtance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0F8B3-C0C2-4C54-966F-A68DA8224F51}|inheirtance\\inheirtance.csproj|solutionrelative:inheirtance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0F8B3-C0C2-4C54-966F-A68DA8224F51}|inheirtance\\inheirtance.csproj|d:\\visual studio projects\\source\\repos\\csharplearningprojects\\inheirtance\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0F8B3-C0C2-4C54-966F-A68DA8224F51}|inheirtance\\inheirtance.csproj|solutionrelative:inheirtance\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B0F8B3-C0C2-4C54-966F-A68DA8224F51}|inheirtance\\inheirtance.csproj|d:\\visual studio projects\\source\\repos\\csharplearningprojects\\inheirtance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B0F8B3-C0C2-4C54-966F-A68DA8224F51}|inheirtance\\inheirtance.csproj|solutionrelative:inheirtance\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E4265-005A-409E-B7C6-D1AB2ABBB37C}|Enums\\Enums.csproj|d:\\visual studio projects\\source\\repos\\csharplearningprojects\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E4265-005A-409E-B7C6-D1AB2ABBB37C}|Enums\\Enums.csproj|solutionrelative:enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F917144E-C087-4650-A311-4D9D531CC2DE}|dateandtime\\dateandtime.csproj|d:\\visual studio projects\\source\\repos\\csharplearningprojects\\dateandtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F917144E-C087-4650-A311-4D9D531CC2DE}|dateandtime\\dateandtime.csproj|solutionrelative:dateandtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866E6722-ED48-4681-BAFC-52EDEB3C342B}|temperature conversions\\temperature conversions.csproj|d:\\visual studio projects\\source\\repos\\csharplearningprojects\\temperature conversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866E6722-ED48-4681-BAFC-52EDEB3C342B}|temperature conversions\\temperature conversions.csproj|solutionrelative:temperature conversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\inheirtance\\Sales.cs",
+              "RelativeDocumentMoniker": "inheirtance\\Sales.cs",
+              "ToolTip": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\inheirtance\\Sales.cs",
+              "RelativeToolTip": "inheirtance\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:45:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\inheirtance\\Employee.cs",
+              "RelativeDocumentMoniker": "inheirtance\\Employee.cs",
+              "ToolTip": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\inheirtance\\Employee.cs",
+              "RelativeToolTip": "inheirtance\\Employee.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:52:04.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\inheirtance\\Program.cs",
+              "RelativeDocumentMoniker": "inheirtance\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\inheirtance\\Program.cs",
+              "RelativeToolTip": "inheirtance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:51:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Enums\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\Enums\\Program.cs",
+              "RelativeToolTip": "Enums\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:54:24.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\dateandtime\\Program.cs",
+              "RelativeDocumentMoniker": "dateandtime\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\dateandtime\\Program.cs",
+              "RelativeToolTip": "dateandtime\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:57:12.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\temperature conversions\\Program.cs",
+              "RelativeDocumentMoniker": "temperature conversions\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\source\\repos\\CSharpLearningProjects\\temperature conversions\\Program.cs",
+              "RelativeToolTip": "temperature conversions\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:36:47.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

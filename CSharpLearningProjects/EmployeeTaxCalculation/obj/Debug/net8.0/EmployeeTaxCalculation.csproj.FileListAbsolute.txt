@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\bin\Debug\net8.0\EmployeeTaxCalculation.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\bin\Debug\net8.0\EmployeeTaxCalculation.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\bin\Debug\net8.0\EmployeeTaxCalculation.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\bin\Debug\net8.0\EmployeeTaxCalculation.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\bin\Debug\net8.0\EmployeeTaxCalculation.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\refint\EmployeeTaxCalculation.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\EmployeeTaxCalculation.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\EmployeeTaxCalculation\obj\Debug\net8.0\ref\EmployeeTaxCalculation.dll

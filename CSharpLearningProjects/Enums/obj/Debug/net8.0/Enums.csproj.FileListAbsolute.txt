@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\bin\Debug\net8.0\Enums.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\bin\Debug\net8.0\Enums.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\bin\Debug\net8.0\Enums.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\bin\Debug\net8.0\Enums.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\refint\Enums.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Enums\obj\Debug\net8.0\ref\Enums.dll

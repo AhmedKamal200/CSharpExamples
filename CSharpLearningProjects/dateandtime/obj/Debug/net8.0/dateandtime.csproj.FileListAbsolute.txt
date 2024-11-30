@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\bin\Debug\net8.0\dateandtime.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\bin\Debug\net8.0\dateandtime.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\bin\Debug\net8.0\dateandtime.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\bin\Debug\net8.0\dateandtime.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\bin\Debug\net8.0\dateandtime.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\refint\dateandtime.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\dateandtime.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\dateandtime\obj\Debug\net8.0\ref\dateandtime.dll

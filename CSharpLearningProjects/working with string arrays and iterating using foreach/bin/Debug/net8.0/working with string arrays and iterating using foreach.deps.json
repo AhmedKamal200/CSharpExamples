@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "working with string arrays and iterating using foreach/1.0.0": {
+        "runtime": {
+          "working with string arrays and iterating using foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "working with string arrays and iterating using foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

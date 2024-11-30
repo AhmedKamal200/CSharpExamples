@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\bin\Debug\net8.0\summing an integer array.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\bin\Debug\net8.0\summing an integer array.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\bin\Debug\net8.0\summing an integer array.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\bin\Debug\net8.0\summing an integer array.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\bin\Debug\net8.0\summing an integer array.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\refint\summing an integer array.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\summing an integer array.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\summing an integer array\obj\Debug\net8.0\ref\summing an integer array.dll

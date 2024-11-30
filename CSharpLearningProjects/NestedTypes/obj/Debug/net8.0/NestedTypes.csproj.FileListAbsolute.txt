@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\bin\Debug\net8.0\NestedTypes.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\bin\Debug\net8.0\NestedTypes.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\bin\Debug\net8.0\NestedTypes.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\bin\Debug\net8.0\NestedTypes.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\bin\Debug\net8.0\NestedTypes.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\refint\NestedTypes.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\NestedTypes.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\NestedTypes\obj\Debug\net8.0\ref\NestedTypes.dll

@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\bin\Debug\net8.0\Operatoroverloading.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\bin\Debug\net8.0\Operatoroverloading.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\bin\Debug\net8.0\Operatoroverloading.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\bin\Debug\net8.0\Operatoroverloading.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\bin\Debug\net8.0\Operatoroverloading.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\refint\Operatoroverloading.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\Operatoroverloading.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Operatoroverloading\obj\Debug\net8.0\ref\Operatoroverloading.dll

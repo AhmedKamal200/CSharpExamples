@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\bin\Debug\net8.0\Events_Stock.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\bin\Debug\net8.0\Events_Stock.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\bin\Debug\net8.0\Events_Stock.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\bin\Debug\net8.0\Events_Stock.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\bin\Debug\net8.0\Events_Stock.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\refint\Events_Stock.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\Events_Stock.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Events_Stock\obj\Debug\net8.0\ref\Events_Stock.dll

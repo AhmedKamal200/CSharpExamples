@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\bin\Debug\net8.0\delegate1.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\bin\Debug\net8.0\delegate1.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\bin\Debug\net8.0\delegate1.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\bin\Debug\net8.0\delegate1.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\bin\Debug\net8.0\delegate1.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\refint\delegate1.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\delegate1.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\delegate1\obj\Debug\net8.0\ref\delegate1.dll

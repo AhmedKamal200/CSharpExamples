@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\bin\Debug\net8.0\stringArrayOfCharacters.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\bin\Debug\net8.0\stringArrayOfCharacters.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\bin\Debug\net8.0\stringArrayOfCharacters.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\bin\Debug\net8.0\stringArrayOfCharacters.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\bin\Debug\net8.0\stringArrayOfCharacters.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\refint\stringArrayOfCharacters.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\stringArrayOfCharacters.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\working with string arrays and iterating using foreach\obj\Debug\net8.0\ref\stringArrayOfCharacters.dll

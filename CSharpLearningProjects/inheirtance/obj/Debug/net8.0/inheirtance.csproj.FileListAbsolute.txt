@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\bin\Debug\net8.0\inheirtance.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\bin\Debug\net8.0\inheirtance.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\bin\Debug\net8.0\inheirtance.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\bin\Debug\net8.0\inheirtance.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\bin\Debug\net8.0\inheirtance.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\refint\inheirtance.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\inheirtance.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\inheirtance\obj\Debug\net8.0\ref\inheirtance.dll

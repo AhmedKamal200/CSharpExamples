@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\bin\Debug\net8.0\indexers_IpAddress.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\bin\Debug\net8.0\indexers_IpAddress.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\bin\Debug\net8.0\indexers_IpAddress.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\bin\Debug\net8.0\indexers_IpAddress.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\bin\Debug\net8.0\indexers_IpAddress.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\refint\indexers_IpAddress.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\indexers_IpAddress.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\indexers\obj\Debug\net8.0\ref\indexers_IpAddress.dll
