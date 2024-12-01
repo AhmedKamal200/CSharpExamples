@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\bin\Debug\net8.0\IEnumerator-yield.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\bin\Debug\net8.0\IEnumerator-yield.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\bin\Debug\net8.0\IEnumerator-yield.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\bin\Debug\net8.0\IEnumerator-yield.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\bin\Debug\net8.0\IEnumerator-yield.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\refint\IEnumerator-yield.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\IEnumerator-yield.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\IEnumerator-yield\obj\Debug\net8.0\ref\IEnumerator-yield.dll

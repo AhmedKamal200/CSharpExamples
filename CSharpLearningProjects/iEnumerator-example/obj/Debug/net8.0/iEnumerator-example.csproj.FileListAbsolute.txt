@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-example.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-example.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-example.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-example.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\refint\iEnumerator-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-example.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\ref\iEnumerator-example.dll
