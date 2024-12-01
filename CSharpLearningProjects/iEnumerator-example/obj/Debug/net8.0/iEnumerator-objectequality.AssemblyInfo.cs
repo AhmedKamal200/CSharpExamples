@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iEnumerator-objectequality")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abdc01ff634adfe8cc4dde64efdaa74e9861a16c")]
 [assembly: System.Reflection.AssemblyProductAttribute("iEnumerator-objectequality")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iEnumerator-objectequality")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
