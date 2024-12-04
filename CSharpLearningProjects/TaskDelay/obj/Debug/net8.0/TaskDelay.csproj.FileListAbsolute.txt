@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\bin\Debug\net8.0\TaskDelay.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\bin\Debug\net8.0\TaskDelay.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\bin\Debug\net8.0\TaskDelay.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\bin\Debug\net8.0\TaskDelay.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\bin\Debug\net8.0\TaskDelay.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\refint\TaskDelay.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\TaskDelay.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskDelay\obj\Debug\net8.0\ref\TaskDelay.dll

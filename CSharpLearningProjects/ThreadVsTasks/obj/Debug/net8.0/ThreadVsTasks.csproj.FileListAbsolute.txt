@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\bin\Debug\net8.0\ThreadVsTasks.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\bin\Debug\net8.0\ThreadVsTasks.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\bin\Debug\net8.0\ThreadVsTasks.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\bin\Debug\net8.0\ThreadVsTasks.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\bin\Debug\net8.0\ThreadVsTasks.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\refint\ThreadVsTasks.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ThreadVsTasks.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadVsTasks\obj\Debug\net8.0\ref\ThreadVsTasks.dll

@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\Dictionaries.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\Dictionaries.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\Dictionaries.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\Dictionaries.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\Dictionaries.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\refint\Dictionaries.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\Dictionaries.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\ref\Dictionaries.dll

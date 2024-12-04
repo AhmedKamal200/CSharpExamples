@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\bin\Debug\net8.0\Linkedlist.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\bin\Debug\net8.0\Linkedlist.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\bin\Debug\net8.0\Linkedlist.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\bin\Debug\net8.0\Linkedlist.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\bin\Debug\net8.0\Linkedlist.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\refint\Linkedlist.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\Linkedlist.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Linkedlist\obj\Debug\net8.0\ref\Linkedlist.dll

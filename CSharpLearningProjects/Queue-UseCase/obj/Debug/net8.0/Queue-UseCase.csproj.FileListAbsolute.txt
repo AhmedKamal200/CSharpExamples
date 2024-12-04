@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\bin\Debug\net8.0\Queue-UseCase.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\bin\Debug\net8.0\Queue-UseCase.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\bin\Debug\net8.0\Queue-UseCase.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\bin\Debug\net8.0\Queue-UseCase.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\bin\Debug\net8.0\Queue-UseCase.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\refint\Queue-UseCase.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\Queue-UseCase.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Queue-UseCase\obj\Debug\net8.0\ref\Queue-UseCase.dll

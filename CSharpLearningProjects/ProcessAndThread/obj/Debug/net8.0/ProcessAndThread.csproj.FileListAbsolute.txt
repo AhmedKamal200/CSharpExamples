@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\bin\Debug\net8.0\ProcessAndThread.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\bin\Debug\net8.0\ProcessAndThread.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\bin\Debug\net8.0\ProcessAndThread.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\bin\Debug\net8.0\ProcessAndThread.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\bin\Debug\net8.0\ProcessAndThread.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\refint\ProcessAndThread.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ProcessAndThread.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ProcessAndThread\obj\Debug\net8.0\ref\ProcessAndThread.dll

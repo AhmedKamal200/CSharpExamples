@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\bin\Debug\net8.0\TaskCombinators.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\bin\Debug\net8.0\TaskCombinators.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\bin\Debug\net8.0\TaskCombinators.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\bin\Debug\net8.0\TaskCombinators.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\bin\Debug\net8.0\TaskCombinators.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\refint\TaskCombinators.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\TaskCombinators.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskCombinators\obj\Debug\net8.0\ref\TaskCombinators.dll

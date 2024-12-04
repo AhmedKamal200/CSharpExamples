@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\bin\Debug\net8.0\TaskReturnsValue.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\bin\Debug\net8.0\TaskReturnsValue.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\bin\Debug\net8.0\TaskReturnsValue.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\bin\Debug\net8.0\TaskReturnsValue.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\bin\Debug\net8.0\TaskReturnsValue.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\refint\TaskReturnsValue.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\TaskReturnsValue.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskReturnsValue\obj\Debug\net8.0\ref\TaskReturnsValue.dll

@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\bin\Debug\net8.0\TaskContinuation.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\bin\Debug\net8.0\TaskContinuation.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\bin\Debug\net8.0\TaskContinuation.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\bin\Debug\net8.0\TaskContinuation.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\bin\Debug\net8.0\TaskContinuation.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\refint\TaskContinuation.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\TaskContinuation.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\TaskContinuation\obj\Debug\net8.0\ref\TaskContinuation.dll

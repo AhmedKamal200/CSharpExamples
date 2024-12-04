@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\bin\Debug\net8.0\Reflection-example.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\bin\Debug\net8.0\Reflection-example.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\bin\Debug\net8.0\Reflection-example.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\bin\Debug\net8.0\Reflection-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\bin\Debug\net8.0\Reflection-example.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\refint\Reflection-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\Reflection-example.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Reflection-example\obj\Debug\net8.0\ref\Reflection-example.dll

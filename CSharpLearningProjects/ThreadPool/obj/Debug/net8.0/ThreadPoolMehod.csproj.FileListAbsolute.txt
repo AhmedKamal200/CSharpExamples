@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\bin\Debug\net8.0\ThreadPoolMehod.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\bin\Debug\net8.0\ThreadPoolMehod.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\bin\Debug\net8.0\ThreadPoolMehod.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\bin\Debug\net8.0\ThreadPoolMehod.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\bin\Debug\net8.0\ThreadPoolMehod.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\refint\ThreadPoolMehod.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ThreadPoolMehod.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ThreadPool\obj\Debug\net8.0\ref\ThreadPoolMehod.dll

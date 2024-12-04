@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\bin\Debug\net8.0\LongRunningTask.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\bin\Debug\net8.0\LongRunningTask.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\bin\Debug\net8.0\LongRunningTask.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\bin\Debug\net8.0\LongRunningTask.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\bin\Debug\net8.0\LongRunningTask.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\refint\LongRunningTask.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\LongRunningTask.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\LongRunningTask\obj\Debug\net8.0\ref\LongRunningTask.dll

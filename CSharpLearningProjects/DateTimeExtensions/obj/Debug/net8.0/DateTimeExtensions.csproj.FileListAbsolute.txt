@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\bin\Debug\net8.0\DateTimeExtensions.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\bin\Debug\net8.0\DateTimeExtensions.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\bin\Debug\net8.0\DateTimeExtensions.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\bin\Debug\net8.0\DateTimeExtensions.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\bin\Debug\net8.0\DateTimeExtensions.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\refint\DateTimeExtensions.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\DateTimeExtensions.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\DateTimeExtensions\obj\Debug\net8.0\ref\DateTimeExtensions.dll

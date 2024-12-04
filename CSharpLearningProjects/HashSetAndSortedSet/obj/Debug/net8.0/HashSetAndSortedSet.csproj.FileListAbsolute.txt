@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\bin\Debug\net8.0\HashSetAndSortedSet.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\refint\HashSetAndSortedSet.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\HashSetAndSortedSet.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\HashSetAndSortedSet\obj\Debug\net8.0\ref\HashSetAndSortedSet.dll

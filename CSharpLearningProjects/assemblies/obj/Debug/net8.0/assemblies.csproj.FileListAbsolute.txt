@@ -1,0 +1,15 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\bin\Debug\net8.0\assemblies.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\bin\Debug\net8.0\assemblies.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\bin\Debug\net8.0\assemblies.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\bin\Debug\net8.0\assemblies.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\bin\Debug\net8.0\assemblies.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\refint\assemblies.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\assemblies.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\obj\Debug\net8.0\ref\assemblies.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\assemblies\bin\Debug\net8.0\data\jsconfig1.json

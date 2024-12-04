@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\bin\Debug\net8.0\SequentialMethod.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\bin\Debug\net8.0\SequentialMethod.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\bin\Debug\net8.0\SequentialMethod.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\bin\Debug\net8.0\SequentialMethod.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\bin\Debug\net8.0\SequentialMethod.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\refint\SequentialMethod.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\SequentialMethod.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\SequentialMethod\obj\Debug\net8.0\ref\SequentialMethod.dll

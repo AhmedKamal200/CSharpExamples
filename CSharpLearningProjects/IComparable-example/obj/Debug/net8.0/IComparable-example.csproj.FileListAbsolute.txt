@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\bin\Debug\net8.0\IComparable-example.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\bin\Debug\net8.0\IComparable-example.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\bin\Debug\net8.0\IComparable-example.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\bin\Debug\net8.0\IComparable-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\bin\Debug\net8.0\IComparable-example.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\refint\IComparable-example.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\IComparable-example.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\IComparable-example\obj\Debug\net8.0\ref\IComparable-example.dll

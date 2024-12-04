@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\bin\Debug\net8.0\SyncVsAsync.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\bin\Debug\net8.0\SyncVsAsync.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\bin\Debug\net8.0\SyncVsAsync.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\bin\Debug\net8.0\SyncVsAsync.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\bin\Debug\net8.0\SyncVsAsync.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\refint\SyncVsAsync.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\SyncVsAsync.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\SyncVsAsync\obj\Debug\net8.0\ref\SyncVsAsync.dll

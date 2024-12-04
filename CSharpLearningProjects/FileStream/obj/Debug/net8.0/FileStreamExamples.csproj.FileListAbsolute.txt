@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\bin\Debug\net8.0\FileStreamExamples.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\bin\Debug\net8.0\FileStreamExamples.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\bin\Debug\net8.0\FileStreamExamples.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\bin\Debug\net8.0\FileStreamExamples.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\bin\Debug\net8.0\FileStreamExamples.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\refint\FileStreamExamples.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\FileStreamExamples.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\FileStream\obj\Debug\net8.0\ref\FileStreamExamples.dll

@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\bin\Debug\net8.0\ConcurrencyAndParallelism.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\bin\Debug\net8.0\ConcurrencyAndParallelism.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\bin\Debug\net8.0\ConcurrencyAndParallelism.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\bin\Debug\net8.0\ConcurrencyAndParallelism.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\bin\Debug\net8.0\ConcurrencyAndParallelism.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\refint\ConcurrencyAndParallelism.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ConcurrencyAndParallelism.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConcurrencyAndParallelism\obj\Debug\net8.0\ref\ConcurrencyAndParallelism.dll

@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-objectequality.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-objectequality.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-objectequality.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-objectequality.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\bin\Debug\net8.0\iEnumerator-objectequality.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\refint\iEnumerator-objectequality.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\iEnumerator-objectequality.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\iEnumerator-example\obj\Debug\net8.0\ref\iEnumerator-objectequality.dll

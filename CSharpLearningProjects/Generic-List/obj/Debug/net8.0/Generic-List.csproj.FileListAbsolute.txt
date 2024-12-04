@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\bin\Debug\net8.0\Generic-List.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\bin\Debug\net8.0\Generic-List.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\bin\Debug\net8.0\Generic-List.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\bin\Debug\net8.0\Generic-List.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\bin\Debug\net8.0\Generic-List.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\refint\Generic-List.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\Generic-List.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Generic-List\obj\Debug\net8.0\ref\Generic-List.dll

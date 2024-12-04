@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\bin\Debug\net8.0\Attributes.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\bin\Debug\net8.0\Attributes.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\bin\Debug\net8.0\Attributes.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\bin\Debug\net8.0\Attributes.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\bin\Debug\net8.0\Attributes.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\refint\Attributes.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\Attributes.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Attributes\obj\Debug\net8.0\ref\Attributes.dll

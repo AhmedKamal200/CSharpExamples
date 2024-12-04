@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\AttributesWithRefelction.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\AttributesWithRefelction.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\AttributesWithRefelction.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\AttributesWithRefelction.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\bin\Debug\net8.0\AttributesWithRefelction.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\refint\AttributesWithRefelction.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\AttributesWithRefelction.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ConsoleApp1\obj\Debug\net8.0\ref\AttributesWithRefelction.dll

@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\bin\Debug\net8.0\Stack-UseCase.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\bin\Debug\net8.0\Stack-UseCase.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\bin\Debug\net8.0\Stack-UseCase.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\bin\Debug\net8.0\Stack-UseCase.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\bin\Debug\net8.0\Stack-UseCase.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\refint\Stack-UseCase.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\Stack-UseCase.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Stack-UseCase\obj\Debug\net8.0\ref\Stack-UseCase.dll

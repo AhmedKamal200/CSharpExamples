@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\bin\Debug\net8.0\ListsUsage.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\bin\Debug\net8.0\ListsUsage.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\bin\Debug\net8.0\ListsUsage.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\bin\Debug\net8.0\ListsUsage.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\bin\Debug\net8.0\ListsUsage.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\refint\ListsUsage.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ListsUsage.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\ListsUsage\obj\Debug\net8.0\ref\ListsUsage.dll

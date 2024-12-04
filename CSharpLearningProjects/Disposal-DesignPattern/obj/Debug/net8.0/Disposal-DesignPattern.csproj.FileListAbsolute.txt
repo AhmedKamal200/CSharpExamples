@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\bin\Debug\net8.0\Disposal-DesignPattern.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\bin\Debug\net8.0\Disposal-DesignPattern.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\bin\Debug\net8.0\Disposal-DesignPattern.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\bin\Debug\net8.0\Disposal-DesignPattern.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\bin\Debug\net8.0\Disposal-DesignPattern.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\refint\Disposal-DesignPattern.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\Disposal-DesignPattern.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\Disposal-DesignPattern\obj\Debug\net8.0\ref\Disposal-DesignPattern.dll

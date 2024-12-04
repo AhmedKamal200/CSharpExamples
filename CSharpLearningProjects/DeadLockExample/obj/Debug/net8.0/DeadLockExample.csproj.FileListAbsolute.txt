@@ -1,0 +1,14 @@
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\bin\Debug\net8.0\DeadLockExample.exe
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\bin\Debug\net8.0\DeadLockExample.deps.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\bin\Debug\net8.0\DeadLockExample.runtimeconfig.json
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\bin\Debug\net8.0\DeadLockExample.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\bin\Debug\net8.0\DeadLockExample.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.AssemblyInfoInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.AssemblyInfo.cs
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.csproj.CoreCompileInputs.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\refint\DeadLockExample.dll
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.pdb
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\DeadLockExample.genruntimeconfig.cache
+D:\visual studio projects\source\repos\CSharpLearningProjects\DeadLockExample\obj\Debug\net8.0\ref\DeadLockExample.dll
